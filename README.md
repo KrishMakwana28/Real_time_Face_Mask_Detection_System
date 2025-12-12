@@ -36,6 +36,7 @@ Real_time_Face_Mask/
 
 
 │── plot.png # Model training_accuracy/loss curves
+
 │── requirements.txt
 
 │── README.md
