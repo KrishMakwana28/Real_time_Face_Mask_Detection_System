@@ -25,6 +25,7 @@ Real-time Inference: Applying the trained model to live video feeds to draw boun
 
 ## 📂 Project Structure
 Real_time_Face_Mask/
+
 │── mask_detector.h5 # Trained classification model
 
 │── deploy.prototxt # Face detector config
@@ -124,15 +125,7 @@ Red box → No Mask
 
 FPS optimized for smooth performance
 
-🚀 Future Improvements
 
-Add third class: mask worn incorrectly
-
-Use MTCNN or RetinaFace for improved face detection
-
-Deploy as a web app (Flask/Streamlit)
-
-Convert model to TensorFlow Lite for mobile devices
 
 
 📜 License
