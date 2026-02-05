@@ -131,6 +131,13 @@ FPS optimized for smooth performance
 
 This project is open-source and available.
 
+## 🔗 LinkedIn Project Post
+
+This project has been shared on LinkedIn :
+
+👉 View the LinkedIn post here:
+https://www.linkedin.com/posts/krish-makwana-58ab64374_ai-machinelearning-deeplearning-activity-7409257287015391232-qR7q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4SDoB5RKus0IjrjxH2XoHrWA_8rtyLCY
+
 ## ✨ Author
 
 Krish Makwana - https://github.com/KrishMakwana28
